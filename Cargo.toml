@@ -1,0 +1,3 @@
+[workspace] 
+members = ["dive-crc"]
+resolver = "2" 
